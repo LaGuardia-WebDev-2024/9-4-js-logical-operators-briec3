@@ -18,7 +18,7 @@ draw = function() {
     }
 };
 
-var labelCanvas = function(){
+var labelCanvas = function()
     fill(150)
     textSize(20);
     text("y = 200", 10, 220);
